@@ -1,0 +1,30 @@
+{
+  "Format": "2.8.0",
+  "Changes": [
+    // chinsam
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueSam",
+      "Entries": {
+        "fall_11": "Hey... Happy birthday, dear. [201]$l#$b#You are a hard working lady, but I wish you were more gentle to yourself sometimes. You have done enough, you know.#$b#I can't just tell you to stop worrying about things, because that's the person you are, but at least, know that I will be here with you.#$b#I hope that you will have a bombastic birthday! I love you.$h"
+        }
+    },
+    // fweabastian
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueSebastian",
+      "Entries": {
+        "fall_23": "Hey, psst, silly. This is for you. [228]#$b#Happy birthday... Thank you for being with me.$l#$b#Sorry if I'm being weird, I don't do this often. Please forgive your awkward man.$h"
+        }
+    },
+    
+    // cucrobus
+    {
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/MarriageDialogueKrobus",
+      "Entries": {
+        "winter_20": "Good morning, @. Happy birthday! [204]$h#$b#I have had happy days living with you, and I hope you did too...#$b#I heard when two humans really love each other, they hug. So I want to give you a lot of hugs.$h"
+        }
+    }
+  ]
+}

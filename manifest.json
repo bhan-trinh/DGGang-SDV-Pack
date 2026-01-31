@@ -1,0 +1,11 @@
+{
+    "Name": "DGGang",
+    "Author": "fweamy",
+    "Version": "1.0.0",
+    "Description": "A content pack specifically catered to our group's shenanigans.",
+    "UniqueID": "fweamy.DGGang",
+    "UpdateKeys": [],
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}
