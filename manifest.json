@@ -4,7 +4,7 @@
     "Version": "1.0.0",
     "Description": "A content pack specifically catered to our group's shenanigans.",
     "UniqueID": "fweamy.DGGang",
-    "UpdateKeys": [],
+    "UpdateKeys": ["GitHub:bhan-trinh/DGGang-SDV-Pack"],
     "ContentPackFor": {
         "UniqueID": "Pathoschild.ContentPatcher"
     }
