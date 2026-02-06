@@ -6,6 +6,13 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogueSam",
       "Entries": {
+        "Indoor_Day_5": "$y 'Babe, should I pick up rapping for our band? I will be spitting bars in no time._That would be cool._Nice. You will be my first audience!_No, please_Oh... Okay.'",
+        "Indoor_Day_6": "I hope you are not lactose intolerant.#$b#Because I can be... a bit cheesy... [424]$h",
+        "Outdoor_5": "Hey, @. I gotta practice my crazy skateboarding skills. Do you think I would be able to nail consecutive backflips? #$q 305/306 skateboardquestion_followup#How many backflips do you think I will pull off today?#$r 305 skateboardquestion_one#1#$r 305 skateboardquestion_ten#10#$r 306 skateboardquestion_ss#67",
+        "skateboardquestion_one": "Damn, you need to have more faith in me.$3",
+        "skateboardquestion_ten": "That many? Okay!$h",
+        "skateboardquestion_ss": "Haha, you're so funny babe. Don't go bald.$10",
+        "skateboardquestion_followup": "$p 306 #No but genuinely, don't go bald. Unless if you want to.$h|Wish me luck!",
         "fall_11": "Hey... Happy birthday, dear. [201]$l#$b#You are a hard working lady, but I wish you were more gentle to yourself sometimes. You have done enough, you know.#$b#I can't just tell you to stop worrying about things, because that's the person you are, but at least, know that I will be here with you.#$b#I hope that you will have a bombastic birthday! I love you.$h"
         }
     },
