@@ -30,8 +30,11 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/MarriageDialogueKrobus",
       "Entries": {
+        "Indoor_Day_5": "I have heard a strange rumour lately...#$b#Um, it's nothing special. You just happen to be a funny person and I will make sure you don't go bald.",
+        "Indoor_Day_6": "In a hundred of years, you, too, would cease to exist.#$b#In a millenia, the flower field as we know it will have long turned to ashes, and all the people and the sceneries and the places we have loved and held dearly would be here no longer, disintegrated, atomized, transubstantiated.#$b$But in the demise of all things lies rebirth. So I hope when that day comes, we will meet again on a flower field.$h",
+        "Indoor_Night_5": "I overheard from next door... somebody was saying 'Let's get freaky!' I wonder what that means...?#$b#I think freaks are people who are kind of weird? You accepted me, so are you considered a freak...?#$e#We can be freaks together.$h",
         "winter_20": "Good morning, @. Happy birthday! [204]$h#$b#I have had happy days living with you, and I hope you did too...#$b#I heard when two humans really love each other, they hug. So I want to give you a lot of hugs.$h"
-        }
+      }
     }
   ]
 }
